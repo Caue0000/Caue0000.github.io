@@ -6,7 +6,7 @@ $cont = 0;
 
 do {
     echo "Opções do menu
-    [1] Cadastrar usuário
+    [1] Cadastrar jaleco
     [2] Listar usuários
     [3] Listar um usuário
     [4] Editar um usuário
